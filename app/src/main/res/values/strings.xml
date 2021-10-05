@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string name="button1">Кнопка 1</string>
+    <string name="afterClick">обработка нажатия</string>
+
+    <string name="button2">Кнопка 2</string>
+    <string name="afterClick2">Обработка нажатия</string>
+
+    <string name="button3">Кнопка 3</string>
+    <string name="afterClick3">Обработка нажатия</string>
+
+    <string name="button4">Кнопка 4</string>
+    <string name="afterClick4">Обработка нажатия</string>
+</resources>
